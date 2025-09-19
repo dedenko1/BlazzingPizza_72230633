@@ -1,0 +1,52 @@
+﻿@page "/pizzas"
+@using MyBlazorHybridApp.Shared.Data
+@using MyBlazorHybridApp.Shared.Services
+@using MyBlazorHybridApp.Shared.Model
+@* @inject PizzaService PizzaSvc *@
+@inject SpecialsService SpecialsService
+
+@if (specials == null)
+{
+    <p>We're finding out what pizzas are available today...</p>
+}
+else
+{
+
+<h1>Choose your pizza</h1>
+
+<p>We have all these delicious recipes:</p>
+
+<table>
+ <thead>
+  <tr>
+   <th>Pizza Name</th>
+   <th>Description</th>
+   <th>Vegetarian?</th>
+   <th>Vegan?</th>
+   <th>Price</th>
+  </tr>
+ </thead>
+ <tbody>
+  @foreach (var pizza in specials)
+  {
+   <tr>
+    <td>@pizza.Name</td>
+    <td>@pizza.Description</td>
+    <td>@pizza.BasePrice</td>
+    <td>@pizza.ImageUrl</td>
+   </tr>
+  }
+ </tbody>
+</table>
+
+}
+
+@code{
+    // private Pizza[] todaysPizzas;
+    private List<PizzaSpecial> specials;
+
+    protected override async Task OnInitializedAsync()
+    {
+        specials = await SpecialsService.GetSpecialsAsync();
+    }
+}

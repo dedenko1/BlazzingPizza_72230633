@@ -1,0 +1,37 @@
+﻿@page "/counter"
+
+<PageTitle>Counter</PageTitle>
+
+<div class="main">
+
+<h1>Counter</h1>
+
+<p role="status">Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+<hr
+
+<label>Masukkan pesan darimu:</label>
+<input @bind="msg"/>
+
+<p>Pesan dariku: @msg </p>
+
+<button class="btn btn-primary" @onclick="ShowMsg">Klik aku</button>
+
+</div>
+
+@code {
+    private int currentCount = 0;
+    private string msg = String.Empty;
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+
+    private void ShowMsg()
+    {
+        msg = "haii";
+    }
+}
