@@ -292,12 +292,12 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>jci1cx0q3r</Fingerprint>
-      <Integrity>I0PVz4DhZUQHCHAZT/1NTO6NdZIlx9xPx8eg5dN+IRA=</Integrity>
+      <Fingerprint>0rgg158chv</Fingerprint>
+      <Integrity>zA3r/96ex2x20x2eXZx2SZwc6hdTQACnteKdRTaAV78=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <FileLength>14950</FileLength>
-      <LastWriteTime>Fri, 19 Sep 2025 00:20:14 GMT</LastWriteTime>
+      <FileLength>14094</FileLength>
+      <LastWriteTime>Sun, 21 Sep 2025 02:13:38 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.png'))">

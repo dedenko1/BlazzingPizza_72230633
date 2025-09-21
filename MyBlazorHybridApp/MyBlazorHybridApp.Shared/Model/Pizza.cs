@@ -16,20 +16,20 @@ namespace MyBlazorHybridApp.Shared.Model
 
         public int OrderId { get; set; }
 
-        public PizzaSpecial Special { get; set; }
+        public PizzaSpecial Special { get; set; } = new PizzaSpecial();
 
         public int SpecialId { get; set; }
 
         public int Size { get; set; }
 
-        public List<PizzaTopping> Toppings { get; set; }
+        public List<PizzaTopping> Toppings { get; set; } = new List<PizzaTopping>();
 
-        public decimal GetBasePrice()
+        public double GetBasePrice()
         {
-            return ((decimal)Size / (decimal)DefaultSize) * Special.BasePrice;
+            return ((double)Size / (double)DefaultSize) * Special.BasePrice;
         }
 
-        public decimal GetTotalPrice()
+        public double GetTotalPrice()
         {
             return GetBasePrice();
         }

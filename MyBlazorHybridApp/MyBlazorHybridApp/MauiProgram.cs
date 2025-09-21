@@ -18,19 +18,14 @@ namespace MyBlazorHybridApp
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                 });
 
-            // Tambahkan DbContext
-            var dbPath = Path.Combine(FileSystem.AppDataDirectory, "pizza.db");
             builder.Services.AddDbContext<PizzaStoreContext>(options =>
-                options.UseSqlite($"Filename={dbPath}"));
+                options.UseSqlite($"Data Source=pizzastore.db"));
 
-            // Tambahkan service lokal
+            builder.Services.AddScoped<OrderState>();
+
             builder.Services.AddScoped<SpecialsService>();
-
-
-            // Register the pizzas service
             builder.Services.AddSingleton<PizzaService>();
 
-            // Add device-specific services used by the MyBlazorHybridApp.Shared project
             builder.Services.AddSingleton<IFormFactor, FormFactor>();
 
             builder.Services.AddMauiBlazorWebView();
@@ -40,7 +35,16 @@ namespace MyBlazorHybridApp
             builder.Logging.AddDebug();
 #endif
 
-            return builder.Build();
+            var app = builder.Build();
+
+            using (var scope = app.Services.CreateScope())
+            {
+                var db = scope.ServiceProvider.GetRequiredService<PizzaStoreContext>();
+                db.Database.EnsureCreated();
+                SeedData.Initialize(db);    
+            }
+
+            return app;
         }
     }
 }

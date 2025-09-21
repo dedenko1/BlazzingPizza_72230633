@@ -8,6 +8,11 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
+
+builder.Services.AddScoped<OrderState>();
+
+builder.Services.AddScoped<SpecialsService>();
+
 // Register the pizzas service
 builder.Services.AddSingleton<PizzaService>();
 

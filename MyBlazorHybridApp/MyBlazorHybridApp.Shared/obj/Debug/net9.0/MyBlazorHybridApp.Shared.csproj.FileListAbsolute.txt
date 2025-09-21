@@ -43,4 +43,5 @@ C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBl
 C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\compressed\f2zq14i2vg-20bemawc7l.gz
 C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\compressed\bnd4osq77n-20bemawc7l.gz
 C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\compressed\2uwmg4m7rw-yd0xhx024h.gz
-C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\compressed\nkulwy33er-jci1cx0q3r.gz
+C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\MyBlazorHybridApp.Shared.sourcelink.json
+C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\compressed\nkulwy33er-0rgg158chv.gz

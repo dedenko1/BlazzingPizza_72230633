@@ -1,11 +1,11 @@
 ﻿@page "/pizzas"
 @using MyBlazorHybridApp.Shared.Data
 @using MyBlazorHybridApp.Shared.Services
-@using MyBlazorHybridApp.Shared.Model
-@* @inject PizzaService PizzaSvc *@
+@inject PizzaService PizzaService
 @inject SpecialsService SpecialsService
 
-@if (specials == null)
+<div class="main">
+@if (todaysPizzas == null)
 {
     <p>We're finding out what pizzas are available today...</p>
 }
@@ -27,26 +27,27 @@ else
   </tr>
  </thead>
  <tbody>
-  @foreach (var pizza in specials)
+  @foreach (var pizza in todaysPizzas)
   {
    <tr>
     <td>@pizza.Name</td>
     <td>@pizza.Description</td>
-    <td>@pizza.BasePrice</td>
-    <td>@pizza.ImageUrl</td>
+    <td>@pizza.Vegetarian</td>
+                    <td>@pizza.Vegan</td>
+                    <td>@pizza.Price</td>
    </tr>
   }
  </tbody>
 </table>
 
 }
+</div>
 
 @code{
-    // private Pizza[] todaysPizzas;
-    private List<PizzaSpecial> specials;
+    private Pizza[] todaysPizzas;
 
     protected override async Task OnInitializedAsync()
     {
-        specials = await SpecialsService.GetSpecialsAsync();
+        todaysPizzas = await PizzaService.GetPizzasAsync();
     }
 }

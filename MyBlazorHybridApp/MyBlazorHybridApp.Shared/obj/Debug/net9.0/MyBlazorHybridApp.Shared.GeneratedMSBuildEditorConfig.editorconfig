@@ -20,6 +20,10 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/Lenovo/Documents/SEMESTER 5/PM/MyBlazorHybridApp/MyBlazorHybridApp/MyBlazorHybridApp.Shared/Components/ConfigurePizzaDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb25maWd1cmVQaXp6YURpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Lenovo/Documents/SEMESTER 5/PM/MyBlazorHybridApp/MyBlazorHybridApp/MyBlazorHybridApp.Shared/Pages/Calculator.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FsY3VsYXRvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

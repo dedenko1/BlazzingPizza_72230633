@@ -612,8 +612,6 @@ C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBl
 C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\_content\MyBlazorHybridApp.Shared\img\pizzas\salad.jpg
 C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\_content\MyBlazorHybridApp.Shared\img\pizza-slice.svg
 C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\_content\MyBlazorHybridApp.Shared\img\user.svg
-C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\ov7thjkpyk-ostv50rif2.gz
-C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\ov7thjkpyk-ostv50rif2.br
 C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\_content\MyBlazorHybridApp.Shared\MyBlazorHybridApp.Shared.20bemawc7l.bundle.scp.css.gz
 C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\_content\MyBlazorHybridApp.Shared\MyBlazorHybridApp.Shared.20bemawc7l.bundle.scp.css.br
 C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\_content\MyBlazorHybridApp.Shared\MyBlazorHybridApp.Shared.20bemawc7l.bundle.scp.css
@@ -631,3 +629,6 @@ C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBl
 C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
 C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
 C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
+C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MyBlazorHybridApp.sourcelink.json
+C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\ov7thjkpyk-akftszdj61.gz
+C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\ov7thjkpyk-akftszdj61.br
