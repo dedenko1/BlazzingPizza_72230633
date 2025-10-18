@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyBlazorHybridApp.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61e9e984e366aef62ad965df2d67beab54212deb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba35029c3dae3c5d629af7e4ae68f5445ac149fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyBlazorHybridApp.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyBlazorHybridApp.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -28,13 +28,13 @@ wwwroot\img\pizzas\pepperoni.jpg
 wwwroot\img\pizzas\salad.jpg
 wwwroot\img\user.svg
 C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp.Shared\wwwroot\app.css
-C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp.Shared\wwwroot\bootstrap\bootstrap.min.css
-C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp.Shared\wwwroot\bootstrap\bootstrap.min.css.map
-C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp.Shared\wwwroot\css\bootstrap\bootstrap.min.css
-C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp.Shared\wwwroot\css\bootstrap\bootstrap.min.css.map
-C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp.Shared\wwwroot\css\font\quicksand.css
-C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp.Shared\wwwroot\img\bike.svg
-C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp.Shared\wwwroot\img\logo.svg
 C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp.Shared\wwwroot\img\pizza-slice.svg
+C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp.Shared\wwwroot\bootstrap\bootstrap.min.css
 C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp.Shared\wwwroot\img\user.svg
+C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp.Shared\wwwroot\img\logo.svg
+C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp.Shared\wwwroot\img\bike.svg
 C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp.Shared\wwwroot\css\site.css
+C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp.Shared\wwwroot\css\font\quicksand.css
+C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp.Shared\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp.Shared\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\Lenovo\Documents\SEMESTER 5\PM\MyBlazorHybridApp\MyBlazorHybridApp\MyBlazorHybridApp.Shared\wwwroot\bootstrap\bootstrap.min.css.map

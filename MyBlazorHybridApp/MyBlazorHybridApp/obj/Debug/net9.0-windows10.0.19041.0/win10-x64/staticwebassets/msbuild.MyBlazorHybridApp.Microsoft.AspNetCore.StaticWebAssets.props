@@ -57,7 +57,7 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <FileLength>99</FileLength>
-      <LastWriteTime>Thu, 18 Sep 2025 14:54:14 GMT</LastWriteTime>
+      <LastWriteTime>Sat, 18 Oct 2025 06:03:10 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MyBlazorHybridApp.styles.css'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>

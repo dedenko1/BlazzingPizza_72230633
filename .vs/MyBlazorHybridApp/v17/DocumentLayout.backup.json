@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\SEMESTER 5\\PM\\MyBlazorHybridApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{649F2C50-7826-40E1-AB7A-41E1B4C68F5F}|MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|c:\\users\\lenovo\\documents\\semester 5\\pm\\myblazorhybridapp\\myblazorhybridapp\\myblazorhybridapp.shared\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{649F2C50-7826-40E1-AB7A-41E1B4C68F5F}|MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|solutionrelative:myblazorhybridapp\\myblazorhybridapp.shared\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{649F2C50-7826-40E1-AB7A-41E1B4C68F5F}|MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|c:\\users\\lenovo\\documents\\semester 5\\pm\\myblazorhybridapp\\myblazorhybridapp\\myblazorhybridapp.shared\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{649F2C50-7826-40E1-AB7A-41E1B4C68F5F}|MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|solutionrelative:myblazorhybridapp\\myblazorhybridapp.shared\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{649F2C50-7826-40E1-AB7A-41E1B4C68F5F}|MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|c:\\users\\lenovo\\documents\\semester 5\\pm\\myblazorhybridapp\\myblazorhybridapp\\myblazorhybridapp.shared\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{649F2C50-7826-40E1-AB7A-41E1B4C68F5F}|MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|solutionrelative:myblazorhybridapp\\myblazorhybridapp.shared\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{649F2C50-7826-40E1-AB7A-41E1B4C68F5F}|MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|c:\\users\\lenovo\\documents\\semester 5\\pm\\myblazorhybridapp\\myblazorhybridapp\\myblazorhybridapp.shared\\services\\orderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{649F2C50-7826-40E1-AB7A-41E1B4C68F5F}|MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|solutionrelative:myblazorhybridapp\\myblazorhybridapp.shared\\services\\orderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{649F2C50-7826-40E1-AB7A-41E1B4C68F5F}|MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|c:\\users\\lenovo\\documents\\semester 5\\pm\\myblazorhybridapp\\myblazorhybridapp\\myblazorhybridapp.shared\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{649F2C50-7826-40E1-AB7A-41E1B4C68F5F}|MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|solutionrelative:myblazorhybridapp\\myblazorhybridapp.shared\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,54 +22,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SeedData.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\SEMESTER 5\\PM\\MyBlazorHybridApp\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Data\\SeedData.cs",
-              "RelativeDocumentMoniker": "MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Data\\SeedData.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\SEMESTER 5\\PM\\MyBlazorHybridApp\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Data\\SeedData.cs",
-              "RelativeToolTip": "MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Data\\SeedData.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T01:06:27.204Z",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\SEMESTER 5\\PM\\MyBlazorHybridApp\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\SEMESTER 5\\PM\\MyBlazorHybridApp\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAACEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-18T06:08:49.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\SEMESTER 5\\PM\\MyBlazorHybridApp\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\SEMESTER 5\\PM\\MyBlazorHybridApp\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\css\\site.css*",
-              "RelativeToolTip": "MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\css\\site.css*",
-              "ViewState": "AgIAACcCAAAAAAAAAAAswC8CAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-20T15:27:16.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\SEMESTER 5\\PM\\MyBlazorHybridApp\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Pages\\Index.razor",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\SEMESTER 5\\PM\\MyBlazorHybridApp\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Pages\\Index.razor",
-              "RelativeToolTip": "MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Pages\\Index.razor",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\SEMESTER 5\\PM\\MyBlazorHybridApp\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Pages\\Index.razor*",
+              "RelativeToolTip": "MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Pages\\Index.razor*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-20T02:16:38.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderState.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\SEMESTER 5\\PM\\MyBlazorHybridApp\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Services\\OrderState.cs",
-              "RelativeDocumentMoniker": "MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Services\\OrderState.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\SEMESTER 5\\PM\\MyBlazorHybridApp\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Services\\OrderState.cs",
-              "RelativeToolTip": "MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Services\\OrderState.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAUwCUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T02:27:03.545Z",
               "EditorCaption": ""
             }
           ]

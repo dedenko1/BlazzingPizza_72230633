@@ -19,11 +19,12 @@ namespace MyBlazorHybridApp
                 });
 
             builder.Services.AddDbContext<PizzaStoreContext>(options =>
-                options.UseSqlite($"Data Source=pizzastore.db"));
+                options.UseSqlite($"Data Source=pizza.db"));
 
             builder.Services.AddScoped<OrderState>();
 
             builder.Services.AddScoped<SpecialsService>();
+            builder.Services.AddScoped<OrderService>();
             builder.Services.AddSingleton<PizzaService>();
 
             builder.Services.AddSingleton<IFormFactor, FormFactor>();

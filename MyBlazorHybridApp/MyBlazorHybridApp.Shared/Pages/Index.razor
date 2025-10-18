@@ -5,7 +5,22 @@
 @using MyBlazorHybridApp.Shared.Model
 @using MyBlazorHybridApp.Shared.Services
 
+
 <div class="main-index">
+    <div class="top-bar">
+        <a class="logo" href="">
+            <img src="_content/MyBlazorHybridApp.Shared/img/logo.svg" />
+        </a>
+
+        <NavLink href="" class="nav-tab" Match="NavLinkMatch.All">
+            <img src="_content/MyBlazorHybridApp.Shared/img/pizza-slice.svg" />
+            <div>Get Pizza</div>
+        </NavLink>
+        <NavLink href="myorders" class="nav-tab">
+            <img src="_content/MyBlazorHybridApp.Shared/img/bike.svg" />
+            <div>My orders</div>
+        </NavLink>
+    </div>
     <h1>Blazing Pizzas</h1>
     <ul class="pizza-cards">
         @if (specials != null)

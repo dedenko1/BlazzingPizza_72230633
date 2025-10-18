@@ -292,12 +292,12 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>0rgg158chv</Fingerprint>
-      <Integrity>zA3r/96ex2x20x2eXZx2SZwc6hdTQACnteKdRTaAV78=</Integrity>
+      <Fingerprint>i9lhhkpzbc</Fingerprint>
+      <Integrity>GqkUmY0ZVKSh5AinoJMsmiTu62VLntgNJ9SeepxHgmw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <FileLength>14094</FileLength>
-      <LastWriteTime>Sun, 21 Sep 2025 02:13:38 GMT</LastWriteTime>
+      <FileLength>14095</FileLength>
+      <LastWriteTime>Sat, 18 Oct 2025 06:02:55 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.png'))">
@@ -597,7 +597,7 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <FileLength>5793</FileLength>
-      <LastWriteTime>Thu, 18 Sep 2025 15:19:24 GMT</LastWriteTime>
+      <LastWriteTime>Sat, 18 Oct 2025 06:03:09 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MyBlazorHybridApp.Shared.20bemawc7l.bundle.scp.css'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>

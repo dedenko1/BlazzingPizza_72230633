@@ -10,8 +10,9 @@ builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 
 builder.Services.AddScoped<OrderState>();
-
+builder.Services.AddScoped<OrderService>();
 builder.Services.AddScoped<SpecialsService>();
+
 
 // Register the pizzas service
 builder.Services.AddSingleton<PizzaService>();

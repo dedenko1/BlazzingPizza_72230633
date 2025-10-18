@@ -24,8 +24,16 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb25maWd1cmVQaXp6YURpYWxvZy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Lenovo/Documents/SEMESTER 5/PM/MyBlazorHybridApp/MyBlazorHybridApp/MyBlazorHybridApp.Shared/Layout/PizzaLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFBpenphTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Lenovo/Documents/SEMESTER 5/PM/MyBlazorHybridApp/MyBlazorHybridApp/MyBlazorHybridApp.Shared/Pages/Calculator.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FsY3VsYXRvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Documents/SEMESTER 5/PM/MyBlazorHybridApp/MyBlazorHybridApp/MyBlazorHybridApp.Shared/Pages/Checkout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Lenovo/Documents/SEMESTER 5/PM/MyBlazorHybridApp/MyBlazorHybridApp/MyBlazorHybridApp.Shared/Pages/Counter.razor]
@@ -38,6 +46,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Lenovo/Documents/SEMESTER 5/PM/MyBlazorHybridApp/MyBlazorHybridApp/MyBlazorHybridApp.Shared/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Documents/SEMESTER 5/PM/MyBlazorHybridApp/MyBlazorHybridApp/MyBlazorHybridApp.Shared/Pages/MyOrders.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlPcmRlcnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Documents/SEMESTER 5/PM/MyBlazorHybridApp/MyBlazorHybridApp/MyBlazorHybridApp.Shared/Pages/OrderDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJEZXRhaWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Lenovo/Documents/SEMESTER 5/PM/MyBlazorHybridApp/MyBlazorHybridApp/MyBlazorHybridApp.Shared/Pages/Pizzas.razor]

@@ -1,0 +1,87 @@
+﻿@page "/myorders"
+@inject OrderService OrderService
+@inject NavigationManager NavigationManager
+@using MyBlazorHybridApp.Shared.Model
+@using MyBlazorHybridApp.Shared.Services
+
+<div class="top-bar">
+    <a class="logo" href="">
+        <img src="_content/MyBlazorHybridApp.Shared/img/logo.svg" />
+    </a>
+    <NavLink href="" class="nav-tab" Match="NavLinkMatch.All">
+        <img src="_content/MyBlazorHybridApp.Shared/img/pizza-slice.svg" />
+        <div>Get Pizza</div>
+    </NavLink>
+    <NavLink href="myorders" class="nav-tab">
+        <img src="_content/MyBlazorHybridApp.Shared/img/bike.svg" />
+        <div>My orders</div>
+    </NavLink>
+</div>
+
+<div class="main">
+    @if (ordersWithStatus == null)
+    {
+        <p>Loading your orders...</p>
+    }
+    else if (!ordersWithStatus.Any())
+    {
+        <h2>No orders placed yet</h2>
+        <a class="btn btn-warning" href="/">Order some pizza 🍕</a>
+    }
+    else
+    {
+        <div class="list-group orders-list">
+            @foreach (var item in ordersWithStatus)
+            {
+                <div class="list-group-item">
+                    <div class="col">
+                        <h5>@item.Order.CreatedTime.ToString("f")</h5>
+                        <div>
+                            Items:
+                            <strong>@item.Order.Pizzas.Count()</strong>
+                            &nbsp;|&nbsp;
+                            Total:
+                            <strong>@item.Order.GetFormattedTotalPrice()</strong>
+                        </div>
+                    </div>
+
+                    <div class="col">
+                        Status: <strong>@item.StatusText</strong>
+                    </div>
+
+                    @if (item.StatusText != "Delivered")
+                    {
+                        <div class="col flex-grow-0">
+                            <a href="myorders/@item.Order.OrderId" class="btn btn-success">
+                                Track &gt;
+                            </a>
+                        </div>
+                    }
+                </div>
+            }
+        </div>
+    }
+</div>
+
+@code {
+    List<OrderWithStatus> ordersWithStatus = new List<OrderWithStatus>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            ordersWithStatus = await OrderService.GetOrdersAsync();
+
+            // Jika API /orders tidak ditemukan, log di console
+            if (ordersWithStatus == null)
+            {
+                Console.WriteLine("⚠️ Tidak dapat memuat data orders (API /orders kosong atau tidak ditemukan)");
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"❌ Error memuat orders: {ex.Message}");
+            ordersWithStatus = new();
+        }
+    }
+}
